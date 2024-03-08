@@ -1,0 +1,18 @@
+
+
+
+.bg-head{
+  background-image: url('/src/images/bg1.png');
+background-repeat: no-repeat;
+
+}
+
+.about-bg{
+  background-image: url('/src/images/bg2.png');
+ 
+}
+
+.form-bg{
+  background-image: url('/src/images/bg-3.png');
+  background-repeat: no-repeat;
+}
