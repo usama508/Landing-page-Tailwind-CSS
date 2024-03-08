@@ -2,17 +2,17 @@
 
 
 .bg-head{
-  background-image: url('/src/images/bg1.png');
+  background-image: url('/src/images/bg1.webp');
 background-repeat: no-repeat;
 
 }
 
 .about-bg{
-  background-image: url('/src/images/bg2.png');
+  background-image: url('/src/images/bg2.webp');
  
 }
 
 .form-bg{
-  background-image: url('/src/images/bg-3.png');
+  background-image: url('/src/images/bg-3.webp');
   background-repeat: no-repeat;
 }
